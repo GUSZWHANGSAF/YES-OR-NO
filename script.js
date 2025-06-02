@@ -58,10 +58,10 @@ const messages = [
     "Serius Bener??",
     "Udah positif?",
     "serius? ...",
-    "makasi!",
-    "kamu juga cantik kok..",
-    "maaf kalo aku banyak kurangnya...",
-    "I will be very very very happy...", 
+    "YAKIN!",
+    "BENER YAAA..",
+    "OK SII...",
+    "IM FINE...", 
 ];
 
 let messageIndex = 0;
